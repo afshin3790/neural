@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="54bee78e-1dd3-4c54-a2b2-be08bd64a2c2" name="Changes" comment="create dir">
-      <change afterPath="$PROJECT_DIR$/images/invite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase__Changes_.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/links.html" beforeDir="false" afterPath="$PROJECT_DIR$/links.html" afterDir="false" />
-    </list>
+    <list default="true" id="54bee78e-1dd3-4c54-a2b2-be08bd64a2c2" name="Changes" comment="create dir" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -142,7 +137,7 @@
       <workItem from="1748424329974" duration="11132000" />
       <workItem from="1748704772548" duration="2276000" />
       <workItem from="1748761347225" duration="1899000" />
-      <workItem from="1749541126800" duration="4805000" />
+      <workItem from="1749541126800" duration="5406000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <option name="closed" value="true" />
